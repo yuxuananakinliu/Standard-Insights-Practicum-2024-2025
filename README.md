@@ -4,6 +4,6 @@ Practicum project
 ## To Do List
 
 ### Milestone 1 -- 8 weeks
-- [] Collect 15-20 dataset from internet -- 3 weeks
-- [] Preprocess raw data (EDA) -- 4 weeks
-- [] Present data for further analysis -- 1 week
+- [ ] Collect 15-20 dataset from internet -- 3 weeks
+- [ ] Preprocess raw data (EDA) -- 4 weeks
+- [ ] Present data for further analysis -- 1 week
